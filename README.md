@@ -1,4 +1,4 @@
-# SHE - Women's Health Website
+# Eveflo - Women's Health Website
 SHE is a website developed as a solution for GDSC Solution Challenge-2024, aimed at providing aid to the female community in exploring different aspects of womanhood. The primary focus of the website is to empower women by providing knowledge and resources related to menstruation, pregnancy, and post-partum experiences.
 
 ## Features:
