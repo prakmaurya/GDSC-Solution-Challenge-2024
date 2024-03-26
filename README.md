@@ -1,5 +1,5 @@
 # Eveflo - Women's Health Website
-SHE is a website developed as a solution for GDSC Solution Challenge-2024, aimed at providing aid to the female community in exploring different aspects of womanhood. The primary focus of the website is to empower women by providing knowledge and resources related to menstruation, pregnancy, and post-partum experiences.
+Eveflo is a website developed as a solution for GDSC Solution Challenge-2024, aimed at providing aid to the female community in exploring different aspects of womanhood. The primary focus of the website is to empower women by providing knowledge and resources related to menstruation, pregnancy, and post-partum experiences.
 
 ## Features:
 ### 1. Menstruation Section :
@@ -20,7 +20,7 @@ SHE is a website developed as a solution for GDSC Solution Challenge-2024, aimed
 ### 4. Community Engagement :
 
 - Provides a platform for sharing views and experiences, particularly for new moms.
-- Encourages discussion and support within the SHE community.
+- Encourages discussion and support within the Eveflo community.
 
 ## Technologies Used:
 - HTML
